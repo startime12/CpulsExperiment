@@ -1,0 +1,5 @@
+﻿  CPP-5-E02114210.cpp
+E:\Project\c++\experiment\Project5\CPP-5-E02114210.cpp(45,21): warning C4305: “参数”: 从“double”到“float”截断
+E:\Project\c++\experiment\Project5\CPP-5-E02114210.cpp(47,40): warning C4305: “参数”: 从“double”到“float”截断
+E:\Project\c++\experiment\Project5\CPP-5-E02114210.cpp(49,22): warning C4305: “参数”: 从“double”到“float”截断
+  Project5.vcxproj -> E:\Project\c++\experiment\Project5\Debug\Project5.exe

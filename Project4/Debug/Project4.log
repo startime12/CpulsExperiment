@@ -1,0 +1,3 @@
+﻿  CPP-4-E02114210.cpp
+E:\Project\c++\experiment\Project4\CPP-4-E02114210.cpp(75,10): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  Project4.vcxproj -> E:\Project\c++\experiment\Project4\Debug\Project4.exe

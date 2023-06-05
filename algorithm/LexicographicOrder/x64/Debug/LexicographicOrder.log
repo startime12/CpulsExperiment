@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Project\c++\experiment\algorithm\LexicographicOrder\源.cpp(7,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\c++\experiment\algorithm\LexicographicOrder\源.cpp(37,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  LexicographicOrder.vcxproj -> E:\Project\c++\experiment\algorithm\LexicographicOrder\x64\Debug\LexicographicOrder.exe

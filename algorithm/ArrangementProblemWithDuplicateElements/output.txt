@@ -1,0 +1,13 @@
+ccba
+ccab
+cbca
+cbac
+cabc
+cacb
+bcca
+bcac
+bacc
+acbc
+accb
+abcc
+12

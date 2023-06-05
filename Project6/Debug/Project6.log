@@ -1,0 +1,4 @@
+﻿  CPP-6-E02114210.cpp
+E:\Project\c++\experiment\Project6\CPP-6-E02114210.cpp(20,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Project\c++\experiment\Project6\CPP-6-E02114210.cpp(39,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project6.vcxproj -> E:\Project\c++\experiment\Project6\Debug\Project6.exe

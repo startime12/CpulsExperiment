@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "752d3d41-f28c-44b1-b9e4-f689186b4dcf": {
+      "ProjectGuid": "752d3d41-f28c-44b1-b9e4-f689186b4dcf",
+      "DisplayName": "OptimalEditDistanceProblem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
