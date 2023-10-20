@@ -42,7 +42,7 @@ int main() {
     ifs.open("input.txt", ios::in);//打开input.txt文件
     ofstream ofs;
     ofs.open("output.txt", ios::out);//打开output.txt文件
-    int n = 0;//保存将要输入的字符个数
+    int n = 0;
     ifs >> n;
     vector<int>a(n+1);
     for (int i = 0; i < n; i++) {

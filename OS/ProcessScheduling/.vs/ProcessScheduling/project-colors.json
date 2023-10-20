@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f57c0cb4-9baf-4c3d-8411-2cb0daccbd2a": {
+      "ProjectGuid": "f57c0cb4-9baf-4c3d-8411-2cb0daccbd2a",
+      "DisplayName": "ProcessScheduling",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
